@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lucas-fsousa?tab=repositories](https://github.com/lucas-fsousa?tab=repositories)
 
-- 💬 Ask me about **VueJS, EntityFramework, .NET, ASPNET**
+- 💬 Ask me about **VueJS, EntityFramework, .NET, ASPNET and Python!**
 
 - 📫 How to reach me **lucasads18@outlook.com**
 
