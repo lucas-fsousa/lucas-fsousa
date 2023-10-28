@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h4 align="center">A backend developer focused on solving problems and who gets scared when he sees a graphic screen with colors and drawings. HAHAHA</h4>
+<p align="center">A backend developer focused on solving problems and who gets scared when he sees a graphic screen with colors and drawings. HAHAHA</p>
 
 ###
 
